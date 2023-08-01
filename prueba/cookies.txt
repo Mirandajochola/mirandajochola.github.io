@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+d-1.co	TRUE	/	FALSE	1999999999	system	PW
+d-1.co	TRUE	/	FALSE	1999999999	caf_ipaddr	190.104.112.203
+d-1.co	TRUE	/	FALSE	1999999999	country	GT
+d-1.co	TRUE	/	FALSE	1999999999	city	Guatemala%20City"
+d-1.co	TRUE	/	FALSE	1999999999	traffic_target	reseller
+www.rincondelvago.com	TRUE	/	FALSE	1999999999	PHPSESSID	deleted
+.rincondelvago.com	TRUE	/	FALSE	1999999999	orCIP	5a%7C3194515659
+
